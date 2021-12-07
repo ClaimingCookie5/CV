@@ -1,6 +1,6 @@
 ## Te Hotumanawa A Horomona Nga Morehu Elkington
 
-I am an energetic, ambitious and inquisitive **Junior Full Stack Developer**, looking for a role where I can consolidate
+I am an energetic, ambitious and inquisitive **Junior Developer**, looking for a role where I can consolidate
 and extend my programming knowledge.
 
 After finishing High School I worked for a pizzeria company for three years. While working for the pizzeria I attended
