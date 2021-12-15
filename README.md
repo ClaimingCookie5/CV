@@ -13,10 +13,10 @@ and work in a Michelin starred restaurant (*Ametsa with Arzark instructions*).
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **[Acebook](https://github.com/danroche10/acebook-it-does-not-node-well)** | Facebook clone, built in 2 weeks. | Node, Express, Handlebars, PSQL, Jest, Cypress, Heroku |
-| **[Chitter challenge](https://github.com/ClaimingCookie5/Chitter-Challenge-MERN)** | A twitter clone. *work in progress* | The MERN stack, Mocha, Chai |
+| Name                         | Description       | Deployed link | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- | ----------------- |
+| **[Acebook](https://github.com/danroche10/acebook-it-does-not-node-well)** | Facebook clone, built in 2 weeks. | | Node, Express, Handlebars, PSQL, Jest, Cypress, Heroku |
+| **[Amalgamation](https://github.com/ClaimingCookie5/Chitter-Challenge-MERN)** | A combination of various social media applications. *work in progress* | [**Amalgamation**](https://amalgamation.herokuapp.com/) | The MERN stack, Mocha, Chai |
 
 ### Skills
 
